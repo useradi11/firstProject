@@ -3,9 +3,10 @@
 welcome to Addys kitchen
 
 maggie
-coffee
+coffee    
 chicken 65
 
-
-
+Beans
+Pizza
+        
 thank you :)
